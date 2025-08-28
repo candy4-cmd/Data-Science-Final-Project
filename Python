@@ -1,0 +1,2 @@
+movieRating = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/Movie Rating Final/P4-Movie-Ratings.csv')
+movieRating.head()
